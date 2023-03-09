@@ -1,0 +1,16 @@
+strong{
+    color: rgb(243, 24, 68);
+    background-color: white;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+/* estilizar baseado no id */
+#experiencia{
+    color: blue;
+    text-decoration: underline;
+}
+/* configurando uma classe */
+.paragrafos_separados{
+    background-color: red;
+}
